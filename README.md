@@ -9,4 +9,4 @@ Responsive design for optimal viewing on various devices.
 # Technologies Used:
 HTML, CSS, JavaScript
 
-# Live Demo: Event Planning Website
+# Live Demo: https://vaishali498.github.io/-Event-Planning-Website/
